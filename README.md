@@ -1,0 +1,16 @@
+## Hi there 👋
+
+<!--
+**P48782/P48782** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on Arena Simulation
+- 🌱 I’m currently learning Industrial Engineering
+- 👯 I’m looking to collaborate on New projects
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
