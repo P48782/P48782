@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hey there 👋 I'm Priyanka!
 
-<!--
-**P48782/P48782** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a graduate student in **Engineering Management & Industrial Engineering** with a background in **project management** and a growing passion for **data-driven problem solving**.
 
-Here are some ideas to get you started:
+🚀 Currently building:
+- 📦 **FedEx Shipment Analytics** – Full-stack project using **Python** + **Power BI** for forecasting, risk modeling, and prescriptive insights.
+- ⏳ **Queueing Theory Simulator App** – Making waiting lines fun! A hands-on tool to visualize real-world queuing behavior using simulation.
 
-- 🔭 I’m currently working on Arena Simulation
-- 🌱 I’m currently learning Industrial Engineering
-- 👯 I’m looking to collaborate on New projects
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔍 Interests:
+- Data Analytics 📊
+- Simulation Modeling (Arena / Python)
+- Supply Chain Optimization 📦
+- Business Intelligence & Decision Science
+
+💡 Always curious about how code + models = smarter decisions.
+
+📫 Let's connect! Reach me on [LinkedIn](https://www.linkedin.com/in/priyankagpt/) or explore my projects below.  
+🎯 Fun fact: I once turned a lazy Sunday into an AI literacy certificate just for fun. Learning never stops!
+
+---
