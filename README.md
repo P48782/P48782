@@ -12,7 +12,7 @@
 - 📦 **[FedEx Risk Forecasting](https://github.com/P48782/fedex-risk-forecasting)** – Shipment risk modeling and prescriptive analytics using Python & Power BI.
 - 🏥 **[Healthcare Operations Simulation](https://github.com/P48782/arena-ed-simulation)** – ED patient flow simulation built in Arena.
 
-🔍 Interests: Marketing Mix Modeling · AI in Marketing · AI Workflow Automation · Martech · Marketing Operations
+🔍 Interests: Marketing Mix Modeling · AI in Marketing · AI Workflow Automation · Martech · Marketing Operations · Process Simulation · Operations Research · Forecasting · Project Controls & Continuous Improvement · Marketing Mix Modeling · AI Workflow Automation
 
 💡 Agency-side PM background (Dentsu, Wipro) + quantitative analytics — bridging marketing strategy with data-driven decision making.
 
